@@ -6,7 +6,6 @@
 ---
 
 <!-- 🔥 Premium Banner -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Farjana%20Akter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Specialist&descAlignY=55" />
 </p>
@@ -28,6 +27,14 @@ I am a passionate **Frontend Developer** who focuses on building clean, modern, 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,git,github,vscode&perline=7" />
+</p>
+
+---
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -61,10 +68,9 @@ A responsive GitHub-style issue tracker with demo login, API-backed issue listin
 ## 🌐 Social Links
 
 <p align="center">
-  <a href=www.linkedin.com/in/farjana-akter89">
+  <a href="https://www.linkedin.com/in/farjana-akter89/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
 </p>
 
 ---
